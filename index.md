@@ -29,6 +29,6 @@
 
 ## 문의
 
-- 운영 주체: **배포 전 입력 필요**
-- 문의 이메일 또는 지원 URL: **배포 전 입력 필요**
-- 시행일: **배포 전 입력 필요**
+- 운영 주체: **Bluebirdsoft**
+- 문의 이메일 또는 지원 URL: **https://bluebirdsofthelp-collab.github.io/lottobluebirdpro-privacy/**
+- 시행일: **2026년 9월 13일**
